@@ -40,8 +40,7 @@ return await conn.sendMessage(from,{image: {url:`https://i.imgur.com/wZj8PVg.jpe
 
 console.log(e)
 
-reply(`${e}`)
-
+reply(${e})
 }
 
 })
