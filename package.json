@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name NETHU-MD",
-    "stop": "pm2 stop NETHU-MD",
-    "restart": "pm2 restart NETHU-MD"
+    "stop": "pm2 stop WATSON-MD-V1",
+    "restart": "pm2 restart WATSON-MD-V1"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
