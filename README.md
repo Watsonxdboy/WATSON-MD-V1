@@ -11,9 +11,6 @@
 <p align="center">
   <a href="https://github.com/watsonxdboy"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=WATSON-MD-+V1+MultiDevice;Developed+by+watson-xd,;Give+star+and+forks+this+Repo+🌟" alt="WATSON-MD-V1Readme"></a>
 </p>
-## 🚀 Getting Started
-
-To get started with 𝗪𝗔𝗧𝗦𝗢𝗡-M𝗗-V1, follow these steps:
 
 ### 1. Fork This Repository
 
