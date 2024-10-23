@@ -4,7 +4,7 @@
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF0069&center=true&width=970&height=100&lines=*ITS%20𝗪𝗔𝗧𝗦𝗢𝗡-MD-V1*;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗪𝗔𝗧𝗦𝗢𝗡%20𝗫𝗗)
-p align="center">
+
 
 # WATSON-MD-V1
 
@@ -48,4 +48,4 @@ You can deploy the WATSON-MD-V1 bot using **Heroku** method
 
 <h2 
   align="center"> 
-</h2>
+</h2>💃🧚🧚🧚🧚🧚🧚🧚🧚🧚🧚🧚🧚🧚🧚🧚🧚🧚
